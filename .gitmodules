@@ -1,3 +1,6 @@
 [submodule "ge211"]
 	path = ge211
 	url = git@github.com:jtschuster/ge211.git
+[submodule "eecs211-finalproject"]
+	path = eecs211-finalproject
+	url = git@github.com:jtschuster/eecs211-finalproject.git
