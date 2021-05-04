@@ -1,0 +1,3 @@
+[submodule "ge211"]
+	path = ge211
+	url = git@github.com:jtschuster/ge211.git
